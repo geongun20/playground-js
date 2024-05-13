@@ -1,0 +1,14 @@
+{
+  "name": "playground-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "node-ssh": "^13.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.10",
+    "tsx": "^4.9.3",
+    "typescript": "^5.4.5"
+  }
+}
